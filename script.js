@@ -25,3 +25,6 @@ function displayCurrentWeather(city){
     <p>Humidity: ${humidity}</p>
     `;
 }
+
+var search = document.getElementById('search');
+search.addEventListener('searchbutton');
