@@ -35,7 +35,7 @@ THEN I am again presented with current and future conditions for that city
 The Weather Dashboard is deployed here: .
 
 ## Repository
-- Project Repo URL:
+- Project Repo URL: https://github.com/tovalgreene/weather-dashboard.git
 
 ## Credits
 - OpenWeatherMap API: https://openweathermap.org/api
